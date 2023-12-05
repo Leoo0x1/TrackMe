@@ -109,7 +109,7 @@ You can also run the server in a docker container using docker-compose.
 
 ```bash
 # generate certs and update your config.json
-docker-compose -up --build
+docker-compose up --build
 # visit https://localhost/api/all
 ```
 
